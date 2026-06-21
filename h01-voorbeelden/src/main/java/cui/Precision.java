@@ -1,9 +1,7 @@
 package cui;
 
-public class Precision 
-{
-	public static void main(String[] args) 
-	{
+public class Precision {
+	public static void main(String[] args) {
 		double getal = 125.125;
 
 		System.out.printf("%.1f%n", getal);	// <1>

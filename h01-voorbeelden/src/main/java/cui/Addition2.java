@@ -2,10 +2,8 @@ package cui;
 
 import java.util.Scanner;
 
-public class Addition2
-{
-	public static void main(String[] args)
-	{
+public class Addition2 {
+	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); 
 
 		double number1, number2, sum; // <1>

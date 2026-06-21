@@ -1,9 +1,7 @@
 package cui;
 
-public class StringConversion 
-{
-   public static void main( String args[] )
-   { 
+public class StringConversion {
+   public static void main(String args[]) {
       System.out.printf( "%s%n", "This is a string" );   // <1>
       System.out.printf( "%S%n", "This is a string" );   // <2>
 

@@ -2,11 +2,9 @@ package cui;
 
 import java.util.Scanner; // <1>
 
-public class Addition
-{
+public class Addition {
 	// main methode start de uitvoering van Java applicatie
-	public static void main(String[] args)
-	{
+	public static void main(String[] args) {
 		// creëer een object van Scanner; voor invoer vanaf het toetsenbord
 		Scanner input = new Scanner(System.in); // <2>
 

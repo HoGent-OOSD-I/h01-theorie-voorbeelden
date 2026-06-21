@@ -1,9 +1,7 @@
 package cui;
 
-public class IntegerConversion
-{
-	public static void main(String args[])
-	{
+public class IntegerConversion {
+	public static void main(String args[]) {
 		System.out.printf("%d%n", 26);
 		System.out.printf("%d%n", +26);
 		System.out.printf("%d%n", -26);

@@ -1,9 +1,7 @@
 package cui;
 
-public class DoubleConversion 
-{
-	public static void main(String args[])
-	{
+public class DoubleConversion {
+	public static void main(String args[]) {
 		System.out.printf("%f%n", 2.5);		// <1>
 		System.out.printf("%f%n", 25.25);	// <1>
 		
